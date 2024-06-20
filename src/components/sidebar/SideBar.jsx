@@ -15,7 +15,7 @@ const SideBar = () => {
     <div className="sidebar">
       <div className="top">
         <span className="logo">Brains</span>
-        <div className="description">No brains</div>
+        <div className="description">Not included</div>
       </div>
       <hr />
       

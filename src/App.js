@@ -6,6 +6,7 @@ import Single from "./pages/single/Single";
 import List from "./pages/list/List";
 
 function App() {
+
   return (
     <div className="App">
       <BrowserRouter>
